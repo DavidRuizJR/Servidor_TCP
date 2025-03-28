@@ -28,5 +28,8 @@ python cliente.py
 El cliente pedirá un mensaje.
 Si escribes "DESCONEXION", el cliente se cerrará.
 
+### 🔌 Cerrar el servidor
+Para cerrar el servidor solo tienes que escribir en la terminal donde hayas corrido el servidor
+la palabra `"SALIR"`
 
 
