@@ -13,14 +13,18 @@ El cliente permite al usuario enviar mensajes al servidor y se desconecta si se 
 ```bash
 git clone https://github.com/DavidRuizJR/Servidor_TCP.git
 cd servidor-tcp
+```
 
 ### 2️⃣ Ejecutar el servidor
 ```bash
 python servidor.py
+```
 
 ### 3️⃣ Ejecutar el cliente
 ```bash
 python cliente.py
+```
+
 El cliente pedirá un mensaje.
 Si escribes "DESCONEXION", el cliente se cerrará.
 
