@@ -8,6 +8,7 @@ El cliente permite al usuario enviar mensajes al servidor y se desconecta si se 
 - Python 3.x
 
 ## 📦 Instalación y Uso
+Ambos scripts se tienen que correr en terminales diferentes.
 
 ### 1️⃣ Clonar el repositorio
 ```bash
